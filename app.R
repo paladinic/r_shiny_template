@@ -5,7 +5,7 @@ ui <- tagList(
   tags$head(
     useShinyjs(),
     tags$link(type="text/css",rel="stylesheet",href="css/styles.css"),
-    tags$link(rel="shortcut icon",href="/img/logo.png"),
+    tags$link(rel="shortcut icon",href="/img/logo.jpg"),
     tags$script(src="js/script.js")
     ),
   fluidPage(
